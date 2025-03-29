@@ -1,6 +1,8 @@
 # Mistral 7B PyTorch Implementation
 
 This repository contains a clean and efficient PyTorch implementation of the Mistral 7B language model, focusing on clarity and adherence to the original architecture.
+![image](https://github.com/user-attachments/assets/825ec2b3-11cd-4c5d-81e8-96be85a3f2cf)
+
 
 ## Features
 
